@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @voladelta
-- I'm busy coding an awesome tool for crypto traders.
+- I'm busy coding an awesome AI worflow to help you learn faster, finish creative strategy faster.
